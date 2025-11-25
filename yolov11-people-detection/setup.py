@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='yolov11-people-detection',
     version='0.1.0',
-    author='Your Name',
+    author='RV',
     author_email='your.email@example.com',
     description='A project for detecting people using YOLOv11 model.',
     packages=find_packages(where='src'),
